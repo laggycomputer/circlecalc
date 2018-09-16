@@ -1,0 +1,10 @@
+Package: circlecalc
+Version: 1.0.0
+Architecture: all
+Essential: no
+Section: web
+Priority: optional
+Depends:
+Maintainer: someone
+Installed-Size: 100
+Description: Some dude made this.
